@@ -1,0 +1,2 @@
+- leet Code question Solution
+- Tutorial of java codes
